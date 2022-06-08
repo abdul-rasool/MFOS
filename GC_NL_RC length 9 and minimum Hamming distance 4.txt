@@ -1,0 +1,15 @@
+lower bounds of GC_NL_RC code of length 9 and minimum Hamming distance 4
+[9, 8, 4] Linear Code over 2^2
+Generator matrix:
+[1 0 0 0 0 0 0 x 0 x 1 0 1 1 0 x^2 1 x x x^2 0 x x^2 0]
+[0 1 0 0 0 0 0 1 1 x^2 x^2 x 1 x^2 1 0 x^2 x 0 0 0 x 0 x^2]
+[0 0 1 0 0 0 0 x^2 1 x^2 0 1 x^2 x^2 1 x 1 0 x 0 x^2 x^2 x^2 x]
+[0 0 0 1 0 0 0 0 x^2 x^2 1 x^2 0 1 0 x^2 x x^2 x x^2 1 x^2 0 x^2]
+[0 0 0 0 1 0 0 1 0 x^2 1 x^2 0 x^2 x 0 1 0 x^2 x x 1 0 x^2]
+[0 0 0 0 0 1 0 x 0 0 0 x 1 x^2 x x x^2 0 x x x^2 x x x^2]
+[0 0 0 0 0 0 1 x 1 x^2 0 x 0 x^2 x^2 0 0 x^2 1 1 x^2 0 1 x] 
+[0 0 0 0 1 0 0 1 0 1 0 x^2 1 x^2 0 x^2 x^2 x x^2 x^2 x x 1 0 x^2]
+
+  codewords of fixed GC, NL and RC constraints= 362
+
+ the involution =  (1, 5)(2, 6)(3, 7)(4, 8)(9, 13)(10, 14)(11, 15)(12, 16)(17, 21)(18, 22)(19, 23)(20, 24) 
