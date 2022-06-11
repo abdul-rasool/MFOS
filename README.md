@@ -1,1 +1,1 @@
-# MFOS---Evolutionary-Approach-to-Construct-Coding-Sets-for-DNA-Data-Storage
+# MFOS---Evolutionary Approach to Construct Robust Codes for DNA-based Data Storage 
