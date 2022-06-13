@@ -26,6 +26,8 @@ Step-by-step installation is as follows:
 
 ## Execution of algorithm 
 
+Update the existing system according to requirements or run
+
 ```
 pip3 install -r requirements.txt
 ```
