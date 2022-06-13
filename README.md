@@ -13,7 +13,7 @@ The improved MFOS algorithm goal is to achieve global optima solutions with robu
 
 # Installation 
 
-## Tools and envirnoment 
+Tools and envirnoment 
 
 - Install Anaconda from here https://www.anaconda.com/products/distribution, a leading platform powered by Python 
 - Magma V2.25-3 full version from http://magma.maths.usyd.edu.au/magma/download/all/, a computational software
