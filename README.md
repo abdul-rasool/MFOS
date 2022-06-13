@@ -68,6 +68,12 @@ pip3 install -r requirements.txt
 - math
 - random 
 
+# License
+
+MFOS is licensed under the GNU General Public License, for more information read the LICENSE file or refer to:
+
+http://www.gnu.org/licenses/
+
 # Citation
 
 A related paper is under review...
