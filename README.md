@@ -26,7 +26,7 @@ pip3 install -r requirements.txt
 ```
 1. Firstly train the MFO algorithm (or anyother) with both mutation strategies.
 (the parameter and operators settings are given in the manuscript (currently underreview))
-2. MFOS is based on 19 benchmark functions. *Algorithms performances* folder contains the Optimizer.py file, in which all algorihtms configuration is available by selecting following operations with your own requirements:
+2. MFOS is based on 19 benchmark functions. *Algorithms performances* folder contains the *Optimizer.py* file, in which all algorihtms configuration is available by selecting following operations with your own requirements:
    - Select optimizer
    ```
     optimizer=["MFO","GWO"]
