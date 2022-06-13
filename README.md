@@ -20,7 +20,7 @@ The improved MFOS algorithm goal is to achieve global optima solutions with robu
 - MATLAB R2018b from https://www.mathworks.com/downloads/web_downloads/download_release?release=R2018b 
 
 
-## Install the requirements or update system accordingly or Run
+Install the requirements or update system accordingly or Run
 ```
 pip3 install -r requirements.txt
 ```
@@ -50,8 +50,10 @@ pip3 install -r requirements.txt
 
 ## Implementation of MFOS for DNA codes
 
-1. After the MFOS assessments, train this algorithm in Magma software with GC-content, no-runlength and Hamming distance DNA coding constraitns for C<sup>GC, NL</sup> (*n,W,d*) constraints. The software will generate *.cod* files with all possible DNA codes. 
-2. Similarly, run again the MFOS algorithm in Magma with GC-content, no-runlength, Hamming distance and RC constraints for C<sup>GC, NL, RC</sup>(*n,W,d*) constraints.    - The results received in *.cod* files have been summarized in Tables 6 and 7 (given in manuscript (underreview)).
+1. After the MFOS assessments, train this algorithm in Magma software with GC-content, no-runlength and Hamming distance DNA coding constraitns for C<sup>GC, NL</sup>(*n,W,d*) constraints. The software will generate *.cod* files with all possible DNA codes. 
+2. Similarly, run again the MFOS algorithm in Magma with GC-content, no-runlength, Hamming distance and RC constraints for C<sup>GC, NL, RC</sup>(*n,W,d*) constraints.
+
+   - The results received in *.cod* files have been summarized in Tables 6 and 7 (given in manuscript (underreview)).
 
 
 ## Requirements
