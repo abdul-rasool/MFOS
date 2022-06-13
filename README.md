@@ -18,7 +18,9 @@ Step-by-step installation is as follows:
 ## Tools and environment 
 
 > Install Anaconda from here https://www.anaconda.com/products/distribution, a leading platform powered by Python 
+
 > Magma V2.25-3 full version from http://magma.maths.usyd.edu.au/magma/download/all/, a computational software
+
 > MATLAB R2018b from https://www.mathworks.com/downloads/web_downloads/download_release?release=R2018b 
 
 
