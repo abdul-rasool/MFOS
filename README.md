@@ -83,4 +83,4 @@ http://www.gnu.org/licenses/
 
 # Citation
 
-A related paper is under review...
+A related paper is accepted in >[Frontiers in Genetics](https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis)
